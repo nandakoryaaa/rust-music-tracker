@@ -21,5 +21,3 @@ static PATTERN3: Pattern = Pattern {
 };
 
 static SEQUENCE: Sequence = Sequence { patterns: [& PATTERN0, & PATTERN1, & PATTERN2, & PATTERN3, ] };
-
-Z
